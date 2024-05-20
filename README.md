@@ -54,8 +54,14 @@
 <h3 align="left">Umra Badar's GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umra-badar20&show_icons=true&locale=en&bg_color=0D1117" alt="umra-badar20" /></p>
 
-<h2 class="heading-element" dir="auto">❤ Views</h2>
+<h2 class="heading-element" dir="auto">❤ Followers And View</h2>
 
-<a href="https://github.com/Umra-Badar20?tab=followers"><p align="left"> <img src="https://komarev.com/ghpvc/?username=umra-badar20&label=Profile%20views&color=0e75b6&style=flat" alt="umra-badar20" /> </p>
+
+<a href="https://github.com/Umra-Badar20?tab=followers">
+<p align="left">
+<a href="https://github.com/Umra-Badar20?tab=followers"><img src="https://img.shields.io/github/followers/Umra-Badar20?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=umra-badar20&label=Profile%20views&color=0e75b6&style=flat" alt="umra-badar20" /> 
+</p>
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/aliaftabsheikh/aliaftabsheikh/c3862be6d86d0d9b863c38a1c4e24f76e79484b0/Thanks.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/aliaftabsheikh/aliaftabsheikh/c3862be6d86d0d9b863c38a1c4e24f76e79484b0/Thanks.svg" style="max-width: 100%;"></a></p>
 
