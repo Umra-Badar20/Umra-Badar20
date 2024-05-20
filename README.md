@@ -32,7 +32,7 @@
 </ul>
 <p align="center">
 <a  href="https://github.com/Umra-Badar20">
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali Aftab Sheikh's streak" src="https://camo.githubusercontent.com/c013c9d6b676c1589da5ba03c4255e17fa49002cc0c19f4bb7770424da18bceb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746179796162612d616c69267468656d653d6e656f6e2d6461726b" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Umra-Badar20&amp;theme=neon-dark" style="max-width: 100%;">
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umra Badar's streak" src="https://camo.githubusercontent.com/c013c9d6b676c1589da5ba03c4255e17fa49002cc0c19f4bb7770424da18bceb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746179796162612d616c69267468656d653d6e656f6e2d6461726b" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Umra-Badar20&amp;theme=neon-dark" style="max-width: 100%;">
     </a>
   </p>
 <h3 align="left">Connect with me:</h3>
