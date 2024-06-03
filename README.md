@@ -52,7 +52,7 @@
 
   
 <h3 align="left">Umra Badar's GitHub Stats:</h3>
-<p>&nbsp;<img alt="Tayyaba Ali's Github Stats" src="https://camo.githubusercontent.com/60f450e63b31873811f542d726a0148036a25f233669cc7413368e9479e17340/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746179796162612d616c692673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tayyaba-ali&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umra-badar20&show_icons=true&locale=en&theme=neon" alt="umra-badar20" /></p>
 
 <h2 class="heading-element" dir="auto">❤ Followers And View</h2>
 
