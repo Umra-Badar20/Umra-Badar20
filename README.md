@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
 <p align="center" dir="auto">
-<a href="https://github.com/Umra-Badar20"><img src="https://camo.githubusercontent.com/a0071aa53e2e13250c1b4fac026a28b9c5f2f3ba64332a6bd6671ebd94b3da4d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d4d45524e253230537461636b253230446576656c6f7065723b5765622d446576656c6f7065722532303b616e643b53656c662d7461756768742d50726f6772616d6d65723b416c776179732532306c6561726e696e672532306e65772532307468696e677326666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d303834346133267643656e7465723d747275652673697a653d3232" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;Self-taught-Programmer;Always%20learning%20new%20things&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=0844a3&amp;vCenter=true&amp;size=22" style="max-width: 100%;"></a>
+<a href="https://github.com/Umra-Badar20"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;Self-taught-Programmer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
 </p><br/><br/>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🙋 About Me</h2><a id="user-content--about-me" class="anchor" aria-label="Permalink: 🙋 About Me" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
@@ -32,8 +32,8 @@
 </ul>
 <p align="center">
 <a  href="https://github.com/Umra-Badar20">
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umra Badar's streak" src="https://camo.githubusercontent.com/c013c9d6b676c1589da5ba03c4255e17fa49002cc0c19f4bb7770424da18bceb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746179796162612d616c69267468656d653d6e656f6e2d6461726b" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Umra-Badar20&amp;theme=neon-dark" style="max-width: 100%;">
-    </a>
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umra Badar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=neon-dark"/>
+</a>
   </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
