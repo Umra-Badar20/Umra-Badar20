@@ -32,8 +32,8 @@
 </ul>
 <p align="center">
 <a  href="https://github.com/Umra-Badar20">
-<!--  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umra Badar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=neon-dark"/> -->
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umra Badar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Umra-Badar20&theme=neon-dark"/>
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umra Badar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ali&theme=neon-dark"/>
+<!--    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umra Badar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Umra-Badar20&theme=neon-dark"/> -->
 
 </a>
   </p>
