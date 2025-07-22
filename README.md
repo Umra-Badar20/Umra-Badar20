@@ -28,7 +28,7 @@
 <li>Databases (Firebase Firestore, MongoDB)</li>
 <li>Project Management (git, Github)</li>
 <li>Design (Figma, Canva)</li>
-<li>Deployment (Firebase, Heroku, Netlify,Railway,Cyclic)</li>
+<li>Deployment (Firebase, Heroku, Netlify,Railway,Cyclic,Render,Hostinger)</li>
 </ul>
 <p align="center">
 <a  href="https://github.com/Umra-Badar20">
