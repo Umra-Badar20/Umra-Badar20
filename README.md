@@ -1,5 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQHtEoLIoPcYOg/profile-displaybackgroundimage-shrink_200_800/0/1656073033079?e=2147483647&v=beta&t=37732nSDT_SO-rCkfC2lw24RH7tfrVrYm4lKrBDGOQw)
-![MasterHead]([https://media.licdn.com/dms/image/C4D16AQHtEoLIoPcYOg/profile-displaybackgroundimage-shrink_200_800/0/1656073033079?e=2147483647&v=beta&t=37732nSDT_SO-rCkfC2lw24RH7tfrVrYm4lKrBDGOQw](https://i.redd.it/n8agw6z2smyb1.gif))
+![MasterHead](https://camo.githubusercontent.com/9872beccad8f174…9616e763869267269643d67697068792e6769662663743d73)
+
 <h1 align="center">Hi 👋, I'm Umra Badar</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
