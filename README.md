@@ -1,4 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQHtEoLIoPcYOg/profile-displaybackgroundimage-shrink_200_800/0/1656073033079?e=2147483647&v=beta&t=37732nSDT_SO-rCkfC2lw24RH7tfrVrYm4lKrBDGOQw)
+<p align="center">
+<a href ="https://github.com/Umra-Badar20"><img src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
+</p>
 
 <h1 align="center">Hi 👋, I'm Umra Badar</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
