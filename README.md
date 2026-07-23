@@ -1,5 +1,5 @@
 <p align="center">
-<a href ="https://github.com/Umra-Badar20"><img src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
+<a href ="https://github.com/Umra-Badar20"><img src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" alt="Coding Software Developer Sticker by Boolean Careers" style="height: 250px; left: 0px; top: 0px;"></a>&nbsp
 </p>
 
 <h1 align="center">Hi 👋, I'm Umra Badar</h1>
